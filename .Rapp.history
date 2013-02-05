@@ -1,0 +1,29 @@
+getwd()
+load(".RData")
+getwd()
+ls()
+myfunction <- function(x){#
+	y <- rnorm(100)#
+	mean(y)#
+}
+myfunction
+myfunction()
+myfunction()
+getwd()
+dir()
+dir
+dir()
+myfunc.r
+source("myfunc.r")
+source("myfunc.R")
+ls()
+source("myfunc.R")
+ls()
+second
+second()
+second(123)
+second(12)
+second(4:12)
+getwd()
+linbrary(kernlab)
+library(kernlab)
